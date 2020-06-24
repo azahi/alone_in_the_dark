@@ -6,6 +6,6 @@ Everything excluding subject files is released under WTFPL v.2.
 
 Subject files are under Copyright © 42 (https://42.fr).
 
-# Credits
+## Credits
 
 [jraleman's 42_Exam-C](https://github.com/jraleman/42_Exam-C)
