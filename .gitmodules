@@ -1,0 +1,3 @@
+[submodule "easymake"]
+	path = easymake
+	url = https://github.com/dangptrs/easymake.git
